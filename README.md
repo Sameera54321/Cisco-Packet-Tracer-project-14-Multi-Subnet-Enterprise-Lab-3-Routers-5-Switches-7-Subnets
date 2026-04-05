@@ -8,9 +8,9 @@ I’m excited to share my latest Cisco Packet Tracer project – a multi‑subne
 
 ### Multi‑Subnet Enterprise Lab is a Cisco Packet Tracer simulation that models a small but complex corporate network. It includes:
 
-    2 routers (Cisco 2911 or similar – named Router0, Router1)
+    3 routers (Cisco 2911 or similar – named Router0, Router1, Router2)
 
-    3 switches (Cisco 2960‑24TT – Switch0, Switch2, Switch3)
+    5 switches (Cisco 2960‑24TT – Switch0, Switch1, Switch2, Switch3, Switch4)
 
     Multiple end devices – PCs and one server (Server0)
 
@@ -30,9 +30,9 @@ I’m excited to share my latest Cisco Packet Tracer project – a multi‑subne
 
 ## ✨ Features
 
-    ✅ 2 routers – fully configurable for static or dynamic routing
+    ✅ 3 routers – fully configurable for static or dynamic routing
 
-    ✅ 3 switches – support VLANs, trunking, STP, port security
+    ✅ 5 switches – support VLANs, trunking, STP, port security
 
     ✅ Multiple subnets – 20.10.10.0/8, 20.10.20.0/24, 192.168.0.0/24, 192.168.50.0/24, 172.16.31.0/16, 10.10.10.0/8, 200.10.150.0/24
 
